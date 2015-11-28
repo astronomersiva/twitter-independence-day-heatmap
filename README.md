@@ -17,3 +17,6 @@ To get this running you need to have a few things:
 
 
 First, start mongod and redis. Then start tstream.py, incoming tweets are logged to stdout. Then start tweet_service.py and connect your browser to http://localhost:5000/static/map.html and wait for the heatmap to form!
+
+![Output Map](https://github.com/astronomersiva/twitter-independence-day-heatmap/blob/master/output.gif)
+
